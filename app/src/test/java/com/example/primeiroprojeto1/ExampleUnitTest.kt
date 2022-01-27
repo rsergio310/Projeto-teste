@@ -317,8 +317,6 @@ class ExampleUnitTest {
         }else{
             print("triângulo acutângulo")
         }
-
-
     }
 }
 
